@@ -1,0 +1,15 @@
+<div class="block-content-for-blogs">
+  <div 
+    class="block-content-for-blogs__blocks-with-content-blog"
+    *ngFor='let blog of dataBlogs'
+  >
+    <div class="block-content-for-blogs__block-for-close"
+      (click)='closeBlocg(blog.id)'
+    >
+        <i class="fa fa-times" aria-hidden="true"></i>
+    </div>
+    <div class="block-content-for-blogs__block-for-data">
+      {{ blog.text }}
+    </div> 
+  </div>
+</div>

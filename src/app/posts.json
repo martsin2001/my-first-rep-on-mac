@@ -1,0 +1,17 @@
+{
+    "blogs":[
+        {
+            "id": 1,
+            "text": "One of the early wave of blogging pioneers, web designer Jason Kottke started keeping track of interesting things on the internet as far back as 1998. The site took off, boosted partly through close links to popular blog-building website Blogger (he later married one of the founders). And as the phenomenon grew quickly, Kottke became a well-known filter for surfers on the lookout for interesting reading."
+        },{
+            "id": 2,
+            "text": "One of the best-known personal bloggers (those who provide more of a diary than a soapbox or reporting service), Heather Armstrong has been writing online since 2001. Though there were personal websites that came before hers, certain elements conspired to make Dooce one of the biggest public."
+        },{
+            "id": 3,
+            "text": "Once dubbed 'Hollywood's most hated website', Perezhilton (authored by Mario Lavandeira since 2005) is the gossip site celebrities fear most. Mario, 29, is famous for scrawling rude things (typically doodles about drug use) over pap photos and outing closeted stars. On the day of Lindsay Lohan's arrest for drink-driving, he posted 60 updates, and 8m readers logged on."
+        },{
+            "id": 4,
+            "text": "At some point during the disputed US election of 2000 - when Al Gore was famously defeated by a few hanging chads - Joshua Micah Marshall lost patience. Despite working as a magazine editor, Marshall chose to vent on the web. Eight years later Talking Points Memo and its three siblings draw in more than 400,000 viewers a day from their base in New York."
+        }
+    ]
+}
